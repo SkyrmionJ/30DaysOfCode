@@ -1,10 +1,10 @@
+import java.io.*;
+import java.util.*;
+
 /** 
  * Euclid's Algorithm for Computing the GCD of two integers
  * Given two integers a and b, find the GCD recursively using Euclid's Algorithm. 
  */ 
-
-import java.io.*;
-import java.util.*;
 
 public class Solution {
     public static void main(String args[]) {

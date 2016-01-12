@@ -1,3 +1,9 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
 /** 
  * You will create a class Person and write a constructor that takes an integer, initial_Age. 
  * In this constructor, you should check that the initial_Age is not negative because we can't have people with negative ages.
@@ -13,12 +19,6 @@
  * 
  * In addition, create an instance function called yearPasses() that increases the age of the person instance by one.
  */ 
-
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Person {
   

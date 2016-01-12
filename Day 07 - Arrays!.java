@@ -1,13 +1,13 @@
-/** 
- * Given an array of N integers. 
- * Print the integers in reverse order. 
- */
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+
+/** 
+ * Given an array of N integers. 
+ * Print the integers in reverse order. 
+ */
 
 public class Solution {
 

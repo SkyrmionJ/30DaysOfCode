@@ -1,4 +1,8 @@
-/** You are given a phone book that consists of your friend's names and their phone number. 
+import java.util.*;
+import java.io.*;
+
+/** 
+ * You are given a phone book that consists of your friend's names and their phone number. 
  * After that you will be given your friend's name as query. 
  * For each query, print the phone number of your friend. If the friend has no entry, print "Not found". 
  *
@@ -19,9 +23,6 @@
  * Not found
  * harry=12299933
  */
-
-import java.util.*;
-import java.io.*;
 
 class Solution{
    public static void main(String []argh) {

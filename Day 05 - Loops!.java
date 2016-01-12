@@ -1,13 +1,14 @@
-/** Given three integers a, b, and N, output the following series:
- * 
- * a + (2^0 * b), a + (2^0 * b) + (2^1 * b), ..., a + (2^0 * b) + (2^1 * b) + ... + (2^(N-1) * b)
- */
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+
+/** 
+ * Given three integers a, b, and N, output the following series:
+ * 
+ * a + (2^0 * b), a + (2^0 * b) + (2^1 * b), ..., a + (2^0 * b) + (2^1 * b) + ... + (2^(N-1) * b)
+ */
 
 public class Solution {
 

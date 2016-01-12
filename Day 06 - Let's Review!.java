@@ -1,3 +1,9 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
 /**
  * Given an integer N depicting the height of the staircase.
  * Print a staircase of height N that consists of # symbols and spaces.
@@ -13,12 +19,6 @@
  *  #####
  * ######
  */ 
-
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
